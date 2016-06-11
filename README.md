@@ -9,3 +9,10 @@ ADSL 多线程拨号刷票
 如果使用中有bug
 
 请Email到  evilmiracle5@gmail.com
+
+
+ADSL multithreaded brush votes
+
+if program have bugs.
+
+please Email to : evilmiracle5@gmail.com
